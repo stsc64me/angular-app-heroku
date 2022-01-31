@@ -14,8 +14,10 @@
   "dependencies": {
     "@angular/animations": "~13.1.1",
     "@angular/cdk": "^13.1.1",
+    "@angular/cli": "^11.0.2",
     "@angular/common": "~13.1.1",
     "@angular/compiler": "~13.1.1",
+    "@angular/compiler-cli": "^10.0.14",
     "@angular/core": "~13.1.1",
     "@angular/forms": "~13.1.1",
     "@angular/platform-browser": "~13.1.1",
@@ -24,13 +26,15 @@
     "@fortawesome/fontawesome-free": "^5.15.2",
     "bootstrap": "^5.1.2",
     "boxicons": "^2.1.1",
+    "express": "^4.17.2",
     "localforage": "^1.9.0",
+    "path": "^0.12.7",
     "primeicons": "^5.0.0",
     "primeng": "^13.0.4",
     "rxjs": "~6.5.5",
     "tslib": "^2.0.0",
-    "zone.js": "~0.11.4",
-    "typescript": "~3.9.5"
+    "typescript": "~3.9.5",
+    "zone.js": "~0.11.4"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~13.1.2",
